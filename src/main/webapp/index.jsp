@@ -6,7 +6,7 @@
 <h1>Congratulations! from dev branch</h1>
 <img src="boxfuse.png">
 
-<h2>Welcome Vishal!</h2>
+<h2>Welcome DevOps</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
